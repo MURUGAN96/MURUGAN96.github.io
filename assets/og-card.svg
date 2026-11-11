@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+	<rect width="1200" height="630" fill="#f5f4f1"/>
+	<path d="M845 0h355v630H520z" fill="#24262a"/>
+	<path d="M1200 255v375H825z" fill="#842b3c"/>
+	<path d="M70 70h670" stroke="#171719" stroke-width="2"/>
+	<text x="70" y="130" fill="#842b3c" font-size="24" font-family="monospace" letter-spacing="4">SENIOR UI ENGINEER</text>
+	<text x="70" y="270" fill="#171719" font-size="92" font-family="Georgia,serif">MURUGAN</text>
+	<text x="70" y="370" fill="#171719" font-size="92" font-family="Georgia,serif">ATHMAGNANAM</text>
+	<text x="70" y="475" fill="#526477" font-size="29" font-family="Arial,sans-serif">Identity · Architecture · Accessible delivery</text>
+	<text x="70" y="550" fill="#171719" font-size="24" font-family="Arial,sans-serif">Frontend systems people can trust.</text>
+</svg>
